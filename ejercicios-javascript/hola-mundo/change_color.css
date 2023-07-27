@@ -1,0 +1,85 @@
+* {
+  margin: auto;
+  margin: 0;
+  padding: 0;
+  font-family: Tahoma, sans-serif;
+}
+
+body {
+  background: rgb(247, 247, 247);
+}
+
+h1, h5 {
+  color: rgb(2, 1, 1);
+  text-align: center;
+  padding: 5px;
+}
+
+
+
+#btngreen {
+  position: initial;
+  top: 270px;
+  left: 370px;
+  background-color: rgb(24, 137, 4);
+}
+
+#btnblue {
+  position:initial;
+  top: 320px;
+  left: 370px;
+  background-color: blue;
+}
+
+#btnpink {
+  position: initial;
+  top: 370px;
+  left: 370px;
+  background-color: rgb(210, 80, 217);
+}
+
+#btnred {
+  position: initial;
+  top: 420px;
+  left: 370px;
+  background-color: rgb(233, 13, 13);
+}
+
+#btndefault {
+  position: initial;
+  top: 520px;
+  left: 370px;
+  
+}
+#btnyellow {
+  position: initial;
+  top: 460px;
+  left: 370px;
+  background-color: rgb(240, 228, 6);
+}
+
+h2{
+  text-align: start;
+}
+
+input{
+  width: 80px;
+  height: 30px;
+  border: none;
+  background-color: rgb(161, 165, 165);
+  cursor: pointer;
+  outline: none;
+  font-weight: bold;
+  text-transform: capitalize;
+  border-radius: 4px;
+}
+
+.celda {
+  width: 100px;
+  height: 50px;
+  top: 0px;
+  left: 250px;
+  border: 3px groove white;
+  background: #556677;
+  float: left;
+}

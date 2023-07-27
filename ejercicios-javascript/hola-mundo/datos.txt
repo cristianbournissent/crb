@@ -1,0 +1,40 @@
+dentro de una funcion se pueden guardar variables,
+peero se las puede usar en la variable. si no estan 
+declaradas globalmente.
+para que un numero se transforme en string debo incluir
+toString, lo cual me permitira hacer un string de un numero.
+typeoff es para saber si es string, o numero.
+html div es un contenedor de diferentes datos, imagenes, etc.
+queryselector es para seleccionar un elemento id
+getelementsbyclassname para seleccionar varios
+DOM=DOCUMENT OBJECT MODEL
+
+
+
+
+consigna
+
+crear una app que permita disenar cualquier bandera que el usuario desee
+para ello, tener en cuenta lo siguiente:
+1. la bandera se confeccionara por cuadricula.
+2.tendra 12 cuadricula de ancho x 8 de alto.
+3. orientacion:
+el objetivo del ejercicio es que el usuario pueda
+seleccionar un color especifico para cada una de las cuadriculas
+que conforman la bandera. Para esto primero debera pickear el color
+luego hacer click sobre la cuadricula que desea pintar
+subir el repo a git
+
+orden
+1 terminar de organizar el frontend
+2 imprimir por consola el valor que estoy seleccionando
+3 definir el mecanismo de seleccion de celda
+5 imprimir por consola la seleccion de celda
+4 reescribir el css de la celda
+
+
+ejercicio 3
+se requiere obtenere una lista de 20 elementos, a mostrar. los elementos deben mostrarse en filas de 4.
+se debe crear un input de tipo texto, donde se pueda ingresar un criterio de busqueda,para filtrar elementos, junto al input se debe crear un boton
+con el texto "filtrar" para realizar la busqueda sobre la lista de elementos mostrados.
+el filtrado debe poder hacerse por titulo y id.
