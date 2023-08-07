@@ -162,3 +162,7 @@ footer{
     line-height: 45px;
     text-align:start;
 }
+
+.bx-wrapper, .bx-viewport{
+    height: 300px !important;
+}
