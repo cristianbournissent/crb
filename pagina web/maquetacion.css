@@ -164,5 +164,7 @@ footer{
 }
 
 .bx-wrapper, .bx-viewport{
-    height: 300px !important;
+    height: 400px !important;
+    width: 800px;
+    
 }
