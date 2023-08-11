@@ -58,10 +58,11 @@ $(document).ready(function(){
 //login falso
 
 $('#login form').submit(function(){
-
+  var form_name = $('#form_name').val();
+  localStorage.setItem('#for_name', form_name);
 
 });
 
-
-
+var form_name = localStorage.getItem('form_name');
+$('#about p').html('Bienvenido,'+form_name);
 });
